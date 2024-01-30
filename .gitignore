@@ -1,0 +1,9 @@
+*.csv
+node_modules
+ts
+Lib
+Scripts
+*.ini
+dataset
+*.xlsx
+*.json
