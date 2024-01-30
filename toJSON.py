@@ -4,5 +4,4 @@ namafile = input("File XLSX :")
 
 df = pd.read_excel(namafile)
 
-dataJson = df.to_json(orient='records')
-
+dataJson = df.to_json(orient="records")

@@ -1,4 +1,4 @@
-import numpy as np 
+import numpy as np
 
-menu = np.array(["Statistika","Aritmatika"])
+menu = np.array(["Statistika", "Aritmatika"])
 print(menu)
