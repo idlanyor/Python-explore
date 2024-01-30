@@ -11,4 +11,4 @@ class Statistika :
         pass
     def kuartil():
         pass
-     
+    
