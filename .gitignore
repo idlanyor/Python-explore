@@ -7,3 +7,5 @@ Scripts
 dataset
 *.xlsx
 *.json
+env
+.vscode
